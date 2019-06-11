@@ -6,7 +6,7 @@
 """
 
 import first_script
-
+print("bonjour")
 if __name__ == '__main__':
     print("Dans first-import")
 
